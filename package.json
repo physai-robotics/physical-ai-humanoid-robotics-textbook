@@ -1,0 +1,25 @@
+{
+  "name": "physical-ai-humanoid-robotics-textbook",
+  "version": "1.0.0",
+  "description": "AI-native textbook for Physical AI & Humanoid Robotics",
+  "scripts": {
+    "docusaurus": "docusaurus",
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "deploy": "docusaurus deploy",
+    "clear": "docusaurus clear"
+  },
+  "dependencies": {
+    "@docusaurus/core": "^2.4.0",
+    "@docusaurus/preset-classic": "^2.4.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "axios": "^1.4.0",
+    "better-auth": "^0.8.0"
+  },
+  "devDependencies": {
+    "@docusaurus/module-alias": "^2.4.0",
+    "@types/react": "^18.2.0",
+    "@types/node": "^20.0.0"
+  }
+}
